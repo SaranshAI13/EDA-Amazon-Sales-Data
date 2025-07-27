@@ -21,3 +21,20 @@ The analysis involved extensive data cleaning, type correction, feature extracti
 - **Pandas** – Data cleaning and manipulation  
 - **NumPy** – Numeric computations  
 - **Seaborn**, **Matplotlib** – Visualizations and EDA
+
+## 🔍 Key Highlights
+
+- Cleaned product prices by removing currency symbols and converting to numeric types.
+- Calculated and standardized **discount percentages** for accurate comparisons.
+- Removed missing and duplicate entries, and handled data anomalies like invalid rating formats.
+- Visualized trends in **ratings**, **price vs. discount**, and **rating counts** to extract actionable insights.
+
+---
+
+## 📈 Sample Insights
+
+- Products with higher discount percentages tend to have more rating counts.
+- Many products have incorrect or missing rating values that required data cleaning.
+- A strong correlation exists between actual price and discounted price post-cleaning.
+
+---
